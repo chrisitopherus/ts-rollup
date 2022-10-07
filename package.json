@@ -1,7 +1,7 @@
 {
-  "name": "ts-rollup",
+  "name": "4-bit-adder",
   "version": "1.0.0",
-  "description": "Starter for Typescript projects.",
+  "description": "Typescript 4 bit adder",
   "main": "dist/rollup-plugin-babel.cjs.js",
   "module": "dist/rollup-plugin-babel.esm.js",
   "browser": "dist/rollup-plugin-babel.umd.js",
